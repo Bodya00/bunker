@@ -1,2 +1,4 @@
 # The bunker
-Bunker game
+Discord bot for Bunker the game.
+
+Use `!help` command in discord for API info. 

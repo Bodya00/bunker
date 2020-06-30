@@ -1,4 +1,4 @@
-import io, json, random
+import random
 import json
 
 dictd = {}
@@ -12,6 +12,7 @@ with open('db.json', "r", encoding="utf-8") as file:
     #     values = dictd[key].split('.')
     #     val = random.choice(values)
     #     print(f'{key} : {val}')
+
 
 def randomize_profile():
     string = ''
